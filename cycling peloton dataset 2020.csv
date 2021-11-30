@@ -1,0 +1,258 @@
+Date,Time,InstructorName,Minutes,Activity Type,Class,Title,TotalOutput,AvgWatts,AvgResistance,AvgCadence,AvgSpeed,Distance,Calories,AvgHR
+11/18/19 0:00,5:52:00 PM,No Instructor,30,Cycling,Just Ride,30 min 2 sec Just Ride,171,77,0.34,57,12.81,7.87,224,112.84
+11/19/19 0:00,6:02:00 PM,Christine D'Ercole,30,Cycling,Groove,30 min Rhythm Ride,154,86,0.37,78,14.88,7.44,196,116.01
+11/20/19 0:00,5:41:00 PM,Matt Wilpers,30,Cycling,Climb,30 min Climb Ride,182,101,0.42,72,16.17,8.08,223,123.7
+11/20/19 0:00,6:12:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,25,84,0.33,88,15.12,1.26,35,120.3
+11/22/19 0:00,3:01:00 PM,Hannah Marie Corbin,45,Cycling,Low Impact,45 min Low Impact Ride,221,82,0.38,72,14.83,11.12,255,108.33
+11/22/19 0:00,3:47:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Cool Down Ride,23,77,0.38,70,14.46,1.2,25,102.08
+11/23/19 0:00,11:55:00 AM,Christine D'Ercole,75,Cycling,Heart Rate Zone,75 min HRZ Endurance Ride,388,86,0.35,83,15.11,18.89,542,121.94
+11/24/19 0:00,11:43:00 AM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,464,86,0.36,82,15.1,22.64,745,131.11
+11/24/19 0:00,1:13:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,18,61,0.29,87,13.04,1.08,37,123.46
+11/25/19 0:00,9:27:00 AM,Leanne Hainsby,20,Cycling,Intervals,20 min Tabata Ride,131,109,0.4,80,16.59,5.52,168,132.2
+11/25/19 0:00,9:47:00 AM,Robin Arzon,5,Cycling,Low Impact,5 min Cool Down Ride,21,71,0.3,90,13.94,1.16,34,118.79
+11/27/19 0:00,10:02:00 AM,Cody Rigsby,30,Cycling,Groove,30 min Rhythm,161,89,0.37,80,15.29,7.66,234,126.96
+11/27/19 0:00,10:33:00 AM,Ben Alldis,5,Cycling,Low Impact,5 min Cool Down Ride,25,83,0.32,90,14.89,1.23,38,126.36
+11/28/19 0:00,11:00:00 AM,Robin Arzon,45,Cycling,Theme,45 min Turkey Burn Ride,266,99,0.4,78,15.94,11.96,400,136.41
+11/28/19 0:00,11:47:00 AM,Robin Arzon,20,Cycling,Theme,20 min 90s Pop Ride,107,89,0.36,83,15.3,5.09,181,138.07
+11/28/19 0:00,12:09:00 PM,Leanne Hainsby,10,Cycling,Low Impact,10 min Cool Down Ride,55,93,0.4,74,15.6,2.59,88,135.64
+11/29/19 0:00,2:26:00 PM,Matt Wilpers,45,Cycling,Low Impact,45 min Low Impact Ride,210,78,0.36,78,14.39,10.79,238,103.34
+11/29/19 0:00,3:13:00 PM,Ben Alldis,15,Cycling,Climb,15 min Climb Ride,102,114,0.43,74,16.97,4.24,115,125.73
+11/29/19 0:00,3:29:00 PM,Ben Alldis,5,Cycling,Low Impact,5 min Cool Down Ride,28,96,0.35,88,15.8,1.3,34,118.79
+11/30/19 0:00,10:41:00 AM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,250,92,0.36,85,15.61,11.7,344,125.73
+11/30/19 0:00,11:28:00 AM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,46,77,0.32,88,14.48,2.4,71,121.25
+12/1/19 0:00,4:39:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,383,106,0.42,73,16.52,16.51,396,116.31
+12/1/19 0:00,5:40:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Cool Down Ride,24,80,0.37,73,14.63,1.21,26,104.04
+12/3/19 0:00,1:12:00 PM,Olivia Amato,30,Cycling,Low Impact,30 min Low Impact Ride,161,90,0.36,80,15.36,7.67,225,124.46
+12/3/19 0:00,1:42:00 PM,Hannah Frankson,5,Cycling,Low Impact,5 min Cool Down Ride,20,65,0.33,76,13.49,1.13,36,121.07
+12/6/19 0:00,11:18:00 AM,Matt Wilpers,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,164,91,0.34,91,15.46,7.73,209,119.59
+12/6/19 0:00,11:50:00 AM,Ally Love,10,Cycling,Low Impact,10 min Cool Down Ride,59,99,0.41,74,16.09,2.68,75,124.25
+12/7/19 0:00,2:03:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,269,100,0.39,79,15.89,11.91,302,117.51
+12/7/19 0:00,2:50:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,75,84,0.36,78,14.85,3.71,88,110.17
+12/7/19 0:00,3:06:00 PM,Leanne Hainsby,5,Cycling,Low Impact,5 min Cool Down Ride,24,79,0.37,74,14.54,1.2,26,104.03
+12/8/19 0:00,10:41:00 AM,Ben Alldis,15,Cycling,Intervals,15 min HIIT Ride,93,104,0.38,86,16.12,4.03,134,136.86
+12/8/19 0:00,10:59:00 AM,Christine D'Ercole,75,Cycling,Heart Rate Zone,75 min HRZ Endurance Ride,409,91,0.36,83,15.44,19.3,722,142.86
+12/8/19 0:00,12:15:00 PM,Sam Yo,10,Cycling,Low Impact,10 min Cool Down Ride,50,83,0.38,73,14.9,2.48,90,137.82
+12/9/19 0:00,5:30:00 PM,Christine D'Ercole,45,Cycling,Heart Rate Zone,45 min HRZ Endurance Ride,224,83,0.34,87,14.88,11.15,306,118.22
+12/9/19 0:00,6:17:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,39,64,0.29,89,13.43,2.23,57,108.49
+12/11/19 0:00,5:07:00 PM,Christine D'Ercole,75,Cycling,Heart Rate Zone,75 min HRZ Endurance Ride,404,90,0.37,81,15.42,19.26,525,120
+12/13/19 0:00,3:09:00 PM,Denis Morton,15,Cycling,Theme,15 min Move for More: HIIT Ride,85,95,0.36,86,15.63,3.9,104,118.35
+12/13/19 0:00,3:27:00 PM,Olivia Amato,30,Cycling,Theme,30 min Holiday Ride,195,108,0.41,78,16.53,8.26,244,130.01
+12/13/19 0:00,3:57:00 PM,Leanne Hainsby,5,Cycling,Low Impact,5 min Cool Down Ride,25,84,0.38,74,14.88,1.23,32,115.08
+12/14/19 0:00,2:41:00 PM,Jennifer Jacobs,60,Cycling,Climb,60 min Climb Ride,363,101,0.46,63,15.99,15.99,399,116.71
+12/14/19 0:00,3:42:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,42,70,0.31,88,13.91,2.31,61,112.22
+12/15/19 0:00,3:55:00 PM,Denis Morton,60,Cycling,Theme,60 min After Burn Ride,334,93,0.39,77,15.53,15.53,468,127.04
+12/15/19 0:00,4:57:00 PM,Christine D'Ercole,30,Cycling,Low Impact,30 min Low Impact Ride,144,80,0.36,79,14.62,7.31,208,119.55
+12/16/19 0:00,4:15:00 PM,Jess King,45,Cycling,Theme,45 min Sweat Steady Ride,305,113,0.43,75,16.9,12.67,367,129.97
+12/16/19 0:00,5:02:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,49,82,0.34,86,14.89,2.48,75,124.68
+12/17/19 0:00,5:40:00 PM,Denis Morton,30,Cycling,Theme,30 min Classic Rock Ride,175,97,0.37,83,15.82,7.91,241,129.12
+12/17/19 0:00,6:11:00 PM,Christine D'Ercole,15,Cycling,Theme,15 min Move for More: Climb Ride,97,108,0.41,77,16.57,4.14,132,135.58
+12/17/19 0:00,6:27:00 PM,Hannah Frankson,5,Cycling,Low Impact,5 min Cool Down Ride,23,75,0.36,75,14.3,1.21,34,117.12
+12/18/19 0:00,9:21:00 AM,Matt Wilpers,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,266,99,0.36,88,16.01,12,443,144.85
+12/18/19 0:00,10:06:00 AM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,20,68,0.3,88,13.62,1.13,41,130.82
+12/19/19 0:00,8:03:00 AM,Ben Alldis,30,Cycling,Climb,30 min Climb Ride,197,109,0.44,71,16.62,8.31,284,141.67
+12/19/19 0:00,8:34:00 AM,Robin Arzon,5,Cycling,Low Impact,5 min Cool Down Ride,20,67,0.31,83,13.6,1.13,37,123.37
+12/20/19 0:00,1:15:00 PM,Christine D'Ercole,75,Cycling,Heart Rate Zone,75 min HRZ Endurance Ride,439,98,0.38,81,15.85,19.8,546,122.55
+12/20/19 0:00,2:30:00 PM,Sam Yo,5,Cycling,Low Impact,5 min Cool Down Ride,23,76,0.36,77,14.36,1.19,30,110.97
+12/21/19 0:00,3:58:00 PM,Hannah Frankson,45,Cycling,Intervals,45 min HIIT & Hills Ride,320,119,0.44,73,17.05,12.78,410,138.38
+12/21/19 0:00,4:46:00 PM,Kendall Toole,20,Cycling,Low Impact,20 min Low Impact Ride,115,96,0.42,71,15.79,5.26,157,127.44
+12/21/19 0:00,5:06:00 PM,Hannah Frankson,5,Cycling,Low Impact,5 min Cool Down Ride,25,82,0.38,74,14.76,1.24,35,118.63
+12/22/19 0:00,1:05:00 PM,Christine D'Ercole,90,Cycling,Heart Rate Zone,90 min HRZ Endurance Ride,548,102,0.39,80,16.16,24.24,650,121.97
+12/22/19 0:00,2:36:00 PM,Robin Arzon,5,Cycling,Low Impact,5 min Cool Down Ride,21,69,0.31,86,13.67,1.14,30,110.66
+12/23/19 0:00,8:30:00 AM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,297,110,0.39,83,16.61,12.45,401,136.7
+12/23/19 0:00,9:17:00 AM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,50,83,0.33,90,14.95,2.49,80,128.91
+12/25/19 0:00,1:53:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,416,116,0.4,83,17.01,17.01,468,127
+12/25/19 0:00,2:53:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Cool Down Ride,26,85,0.38,74,15.11,1.26,30,111.16
+12/26/19 0:00,11:20:00 AM,Ben Alldis,15,Cycling,Climb,15 min Climb Ride,112,125,0.46,72,17.4,4.35,124,130.97
+12/26/19 0:00,11:37:00 AM,Christine D'Ercole,45,Cycling,Low Impact,45 min Low Impact Ride,293,109,0.42,76,16.69,12.51,335,123.9
+12/27/19 0:00,4:54:00 PM,Matt Wilpers,45,Cycling,Climb,45 min Climb Ride,320,118,0.42,77,17.04,12.77,328,122.47
+12/27/19 0:00,5:41:00 PM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,55,91,0.33,92,15.49,2.58,70,120.31
+12/28/19 0:00,1:43:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Ride,404,112,0.44,73,16.75,16.75,418,119.7
+12/28/19 0:00,2:44:00 PM,Kendall Toole,10,Cycling,Low Impact,10 min Cool Down Ride,55,91,0.37,81,15.49,2.58,67,117.21
+1/2/2020  3,:48:00 PM,Christine D'Ercole,45,Cycling,Heart Rate Zone,45 min HRZ Endurance Ride,283,105,0.36,89,16.32,12.24,341,125.05
+1/2/2020  4,:35:00 PM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,56,94,0.34,91,15.59,2.6,74,123.74
+1/3/2020  2,:57:00 PM,Jenn Sherman,30,Cycling,Low Impact,30 min Low Impact Ride,172,96,0.38,81,15.77,7.88,236,127.66
+1/3/2020  3,:28:00 PM,Jenn Sherman,5,Cycling,Low Impact,5 min Cool Down Ride,21,70,0.32,83,13.88,1.15,34,118.01
+1/4/2020  5,:10:00 PM,Emma Lovewell,45,Cycling,Low Impact,45 min Low Impact Ride,0,0,0,0,0,0,0,
+1/4/2020  5,:11:00 PM,Denis Morton,45,Cycling,Low Impact,45 min Low Impact Ride,221,82,0.36,77,14.75,11.06,226,102.4
+1/4/2020  5,:58:00 PM,Robin Arzon,5,Cycling,Low Impact,5 min Cool Down Ride,21,69,0.31,86,13.74,1.14,23,97.71
+1/11/20 0:00,5:48:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Ride,306,113,0.39,83,16.75,12.56,377,132.17
+1/11/20 0:00,6:35:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,65,108,0.37,88,16.71,2.78,94,140.71
+1/12/20 0:00,3:41:00 PM,Ben Alldis,45,Cycling,Climb,45 min Climb Ride,288,107,0.46,67,16.51,12.38,324,121.74
+1/12/20 0:00,4:28:00 PM,Sam Yo,15,Cycling,Low Impact,15 min Low Impact Ride,78,87,0.38,75,15.09,3.77,107,121.34
+1/12/20 0:00,4:44:00 PM,Ally Love,5,Cycling,Low Impact,5 min Cool Down Ride,24,80,0.38,72,14.69,1.22,30,111.9
+1/14/20 0:00,4:56:00 PM,Christine D'Ercole,45,Cycling,Theme,45 min Classic Rock Ride,259,96,0.35,89,15.56,11.67,321,121.08
+1/14/20 0:00,5:42:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Cool Down Ride,89,99,0.39,78,16.01,4,111,123.44
+1/16/20 0:00,5:24:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,383,106,0.42,74,16.35,16.35,476,128.16
+1/16/20 0:00,6:26:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,66,73,0.39,63,13,3.25,98,115.71
+1/17/20 0:00,9:14:00 AM,Christian Vande Velde,30,Cycling,Pro Cyclist,30 min Pro Cyclist Ride,185,103,0.34,93,16.1,8.05,279,140.01
+1/17/20 0:00,9:45:00 AM,Ben Alldis,5,Cycling,Low Impact,5 min Cool Down Ride,28,95,0.4,73,15.78,1.31,44,135.6
+1/18/20 0:00,5:31:00 PM,Ben Alldis,60,Cycling,Climb,60 min Climb Ride,413,115,0.45,69,16.94,16.94,466,128.19
+1/18/20 0:00,6:33:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,87,97,0.4,76,15.9,3.97,108,121.53
+1/19/20 0:00,10:55:00 AM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,570,106,0.41,76,16.43,24.64,856,140.81
+1/19/20 0:00,12:26:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,73,81,0.37,75,14.68,3.67,128,133.36
+1/20/20 0:00,3:45:00 PM,Hannah Marie Corbin,45,Cycling,Metrics,45 min Metrics Ride (No Arms),313,116,0.43,75,17.09,12.81,346,125.93
+1/20/20 0:00,4:33:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,81,90,0.39,75,15.47,3.86,91,112.01
+1/21/20 0:00,5:42:00 PM,Multiple Instructors,60,Cycling,Power Zone,60 min Two for One: Power Zone Ride,361,100,0.4,77,15.95,15.94,445,124.13
+1/21/20 0:00,6:42:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Cool Down Ride,26,89,0.36,83,15.36,1.27,36,122.41
+1/22/20 0:00,6:21:00 PM,,30,Cycling,Scenic Ride,30 min California Bound Scenic Ride,184,102,0.41,76,16.29,8.15,232,126.44
+2/1/2020  9,:02:00 AM,Kendall Toole,45,Cycling,Theme,45 min Classic Rock Ride,291,112,0.42,77,16.82,12.1,427,145.14
+2/1/2020  9,:47:00 AM,Matt Wilpers,10,Cycling,Low Impact,10 min Low Impact Ride,48,79,0.37,75,14.59,2.43,88,135.5
+2/2/2020  4,:18:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,411,114,0.41,79,16.94,16.93,466,126.69
+2/2/2020  5,:20:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,89,99,0.4,76,16.02,4,104,119.53
+2/8/2020  1,1:37:00 AM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,396,110,0.39,84,16.75,16.75,560,140.27
+2/8/2020  1,2:38:00 PM,Matt Wilpers,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.38,76,15.31,3.83,115,126.06
+2/9/2020  3,:39:00 PM,Matt Wilpers,75,Cycling,Power Zone,75 min Power Zone Endurance Ride,480,107,0.41,77,16.55,20.69,586,126.9
+2/9/2020  4,:56:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.38,77,15.38,3.84,106,120.76
+2/10/20 0:00,5:26:00 PM,Ben Alldis,30,Cycling,Climb,30 min Climb Ride,201,112,0.44,72,16.79,8.39,231,126.15
+2/10/20 0:00,5:57:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Cool Down Ride,26,86,0.41,68,15.17,1.26,29,110.46
+2/11/20 0:00,5:37:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,348,97,0.39,78,15.83,15.83,434,121.95
+2/11/20 0:00,6:39:00 PM,Ben Alldis,10,Cycling,Low Impact,10 min Low Impact Ride,47,78,0.32,87,14.45,2.4,66,116.98
+2/12/20 0:00,5:30:00 PM,Denis Morton,45,Cycling,Theme,45 min 90s Ride,293,109,0.42,77,16.58,12.43,390,134.58
+2/12/20 0:00,6:16:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,86,96,0.38,79,15.74,3.93,122,129.76
+2/13/20 0:00,5:27:00 PM,Kendall Toole,30,Cycling,Intervals,30 min Tabata Ride,188,105,0.41,77,16.33,8.16,228,126.03
+2/13/20 0:00,5:57:00 PM,Emma Lovewell,5,Cycling,Low Impact,5 min Cool Down Ride,25,84,0.36,80,15.06,1.25,32,116.23
+2/14/20 0:00,11:13:00 AM,Ben Alldis,30,Cycling,Intervals,30 min HIIT & Hills Ride,204,113,0.41,78,16.87,8.43,250,132.34
+2/14/20 0:00,11:45:00 AM,Ben Alldis,10,Cycling,Low Impact,10 min Low Impact Ride,56,94,0.35,89,15.77,2.62,80,129.94
+2/15/20 0:00,3:54:00 PM,Hannah Marie Corbin,60,Cycling,Climb,60 min Climb Ride,373,104,0.42,74,16.22,16.21,409,119.1
+2/15/20 0:00,4:56:00 PM,Hannah Marie Corbin,15,Cycling,Low Impact,15 min Low Impact Ride,83,93,0.37,82,15.69,3.92,101,118.13
+2/16/20 0:00,11:03:00 AM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,569,105,0.42,75,16.43,24.64,813,138.39
+2/16/20 0:00,12:34:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,42,71,0.29,93,14,2.33,78,127.82
+2/17/20 0:00,11:39:00 AM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,388,108,0.43,71,16.58,16.57,468,127.65
+2/17/20 0:00,12:43:00 PM,Leanne Hainsby,10,Cycling,Low Impact,10 min Cool Down Ride,52,87,0.39,74,15.15,2.52,68,118.7
+2/18/20 0:00,5:57:00 PM,Denis Morton,30,Cycling,Theme,30 min Weezer Ride,189,105,0.4,78,16.24,8.11,236,128.39
+2/18/20 0:00,6:29:00 PM,Ben Alldis,20,Cycling,Climb,20 min Climb Ride,129,107,0.43,71,16.43,5.48,175,136.02
+2/18/20 0:00,6:49:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,19,64,0.29,89,13.43,1.11,34,118.45
+2/21/20 0:00,9:10:00 AM,Ally Love,30,Cycling,Theme,30 min Feel Good Ride,173,96,0.39,78,15.82,7.9,242,130.1
+2/21/20 0:00,9:41:00 AM,Robin Arzon,5,Cycling,Low Impact,5 min Cool Down Ride,23,76,0.31,89,14.37,1.19,39,128.37
+2/22/20 0:00,1:41:00 PM,Christine D'Ercole,60,Cycling,Theme,60 min Rock Ride,,,,,,,301,110.28
+2/23/20 0:00,3:50:00 PM,Ben Alldis,60,Cycling,Climb,60 min Climb Ride,389,108,0.48,62,16.45,16.45,397,117.29
+2/23/20 0:00,4:51:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,77,86,0.37,77,15.03,3.75,91,112.71
+2/25/20 0:00,5:18:00 PM,Ben Alldis,30,Cycling,Theme,30 min House Ride,197,109,0.42,76,16.61,8.3,240,129.25
+2/25/20 0:00,5:50:00 PM,Christine D'Ercole,20,Cycling,Low Impact,20 min Low Impact Ride,123,103,0.41,77,16.37,5.45,161,129.82
+2/26/20 0:00,6:07:00 PM,Leanne Hainsby,30,Cycling,Intervals,30 min Tabata Ride,185,103,0.4,77,16.22,8.1,224,124.87
+2/26/20 0:00,6:37:00 PM,Jess King,5,Cycling,Low Impact,5 min Cool Down Ride,24,79,0.33,87,14.69,1.22,32,114.94
+2/28/20 0:00,4:11:00 PM,Christine D'Ercole,60,Cycling,Theme,60 min 80s Ride,358,99,0.38,82,15.91,15.91,448,124.81
+2/28/20 0:00,5:12:00 PM,Hannah Marie Corbin,15,Cycling,Low Impact,15 min Low Impact Ride,75,83,0.36,81,15.01,3.75,106,121.59
+2/29/20 0:00,3:04:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,378,105,0.42,74,16.37,16.36,451,125.03
+2/29/20 0:00,4:06:00 PM,Jenn Sherman,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.38,78,15.36,3.83,110,123.55
+3/1/2020  1,1:16:00 AM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,565,105,0.4,78,16.35,24.51,894,146.24
+3/1/2020  1,2:47:00 PM,Hannah Marie Corbin,15,Cycling,Low Impact,15 min Low Impact Ride,73,81,0.38,72,14.78,3.69,135,138.58
+3/2/2020  5,:36:00 PM,Matt Wilpers,15,Cycling,Low Impact,15 min Low Impact Ride,68,75,0.36,74,14.14,3.53,80,106.39
+3/2/2020  5,:53:00 PM,Matt Wilpers,20,Cycling,Power Zone,20 min Power Zone Beginner Ride,124,105,0.39,83,16.45,5.35,154,128.35
+3/2/2020  6,:14:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,20,71,0.29,91,13.81,1.1,29,112.75
+3/3/2020  6,:01:00 PM,Jenn Sherman,30,Cycling,Theme,30 min Classic Rock Ride,193,107,0.41,78,16.51,8.24,213,121.76
+3/3/2020  6,:33:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,97,108,0.41,77,16.59,4.14,109,123.25
+3/4/2020  5,:38:00 PM,Denis Morton,10,Cycling,Power Zone,10 min FTP Warm Up Ride,62,104,0.38,86,16.2,2.69,68,119.49
+3/4/2020  5,:49:00 PM,Denis Morton,20,Cycling,Power Zone,20 min FTP Test Ride,178,149,0.48,74,19.04,6.34,195,144.78
+3/4/2020  6,:13:00 PM,Denis Morton,20,Cycling,Low Impact,20 min Low Impact Ride,107,89,0.36,83,15.31,5.1,147,123.83
+3/5/2020  5,:57:00 PM,Jenn Sherman,30,Cycling,Low Impact,30 min Low Impact Ride,179,99,0.39,77,15.99,7.99,183,112.87
+3/6/2020  2,:49:00 PM,Olivia Amato,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,187,104,0.37,87,16.43,8.21,226,125.51
+3/6/2020  3,:19:00 PM,Olivia Amato,5,Cycling,Low Impact,5 min Cool Down Ride,22,74,0.31,89,14.26,1.18,32,115.04
+3/7/2020  1,2:24:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.37,81,15.36,3.84,91,112.01
+3/7/2020  1,2:41:00 PM,Christine D'Ercole,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,193,107,0.39,83,16.62,8.3,219,123.42
+3/7/2020  1,:12:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,81,90,0.36,84,15.46,3.86,97,116.11
+3/8/2020  2,:18:00 PM,Matt Wilpers,10,Cycling,Low Impact,10 min Low Impact Ride,43,72,0.34,80,13.97,2.32,48,101.23
+3/8/2020  2,:30:00 PM,Christine D'Ercole,30,Cycling,Power Zone,30 min Power Zone Ride,210,117,0.38,88,17.05,8.52,247,131.35
+3/8/2020  3,:01:00 PM,Robin Arzon,20,Cycling,Low Impact,20 min Low Impact Ride,113,95,0.36,85,15.74,5.24,130,116.54
+3/9/2020  5,:22:00 PM,Denis Morton,30,Cycling,Low Impact,30 min Low Impact Ride,171,95,0.4,75,15.85,7.92,164,107.22
+3/9/2020  5,:53:00 PM,Jenn Sherman,5,Cycling,Low Impact,5 min Cool Down Ride,28,95,0.38,80,15.77,1.31,26,104.08
+3/10/20 0:00,5:11:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,277,103,0.38,83,16.18,12.13,315,120.77
+3/10/20 0:00,5:57:00 PM,Denis Morton,20,Cycling,Low Impact,20 min Low Impact Ride,86,72,0.35,75,13.69,4.56,103,104.88
+3/11/20 0:00,6:11:00 PM,Emma Lovewell,30,Cycling,Low Impact,30 min Low Impact Ride,174,97,0.39,78,15.94,7.97,190,115
+3/13/20 0:00,2:48:00 PM,Matt Wilpers,15,Cycling,Low Impact,15 min Low Impact Ride,67,75,0.36,74,14.1,3.52,77,104.61
+3/13/20 0:00,3:04:00 PM,Olivia Amato,30,Cycling,Power Zone,30 min Power Zone Ride,201,112,0.41,79,16.8,8.39,225,125.1
+3/13/20 0:00,3:36:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,86,96,0.39,76,15.8,3.95,100,117.76
+3/14/20 0:00,5:52:00 PM,Matt Wilpers,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,178,99,0.37,86,16.02,8.01,206,113.6
+3/14/20 0:00,6:24:00 PM,Hannah Marie Corbin,20,Cycling,Low Impact,20 min Low Impact Ride,108,90,0.39,75,15.46,5.15,118,111.21
+3/15/20 0:00,3:22:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Ride,296,110,0.41,79,16.57,12.43,370,131.38
+3/15/20 0:00,4:07:00 PM,Ally Love,5,Cycling,Low Impact,5 min Cool Down Ride,24,79,0.34,82,14.57,1.21,34,119.47
+3/16/20 0:00,6:29:00 PM,Matt Wilpers,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,171,95,0.38,80,15.64,7.82,211,120.98
+3/16/20 0:00,7:01:00 PM,Sam Yo,10,Cycling,Low Impact,10 min Low Impact Ride,51,85,0.34,86,14.92,2.48,64,115.23
+3/17/20 0:00,5:09:00 PM,Robin Arzon,15,Cycling,Low Impact,15 min Warm Up Ride,76,85,0.34,87,15.01,3.75,91,112.39
+3/17/20 0:00,5:26:00 PM,Olivia Amato,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,195,108,0.4,80,16.62,8.3,213,121.61
+3/17/20 0:00,5:57:00 PM,Matt Wilpers,15,Cycling,Low Impact,15 min Low Impact Ride,69,76,0.34,81,14.38,3.59,84,108.7
+3/18/20 0:00,1:25:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.34,89,15.35,3.83,108,122.4
+3/18/20 0:00,1:41:00 PM,Christine D'Ercole,30,Cycling,Power Zone,30 min Power Zone Ride,193,107,0.37,86,16.35,8.17,274,139.33
+3/18/20 0:00,2:13:00 PM,Christine D'Ercole,30,Cycling,Low Impact,30 min Low Impact Ride,165,92,0.36,84,15.52,7.76,255,133.89
+3/19/20 0:00,2:00:00 PM,Denis Morton,45,Cycling,Low Impact,45 min Low Impact Ride,249,92,0.38,79,15.55,11.66,307,119.12
+3/20/20 0:00,12:12:00 PM,Hannah Marie Corbin,5,Cycling,Low Impact,5 min Warm Up Ride,18,60,0.32,75,12.86,1.07,23,98.36
+3/20/20 0:00,12:19:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,385,107,0.4,80,16.6,16.6,504,132.92
+3/20/20 0:00,1:21:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,77,85,0.34,86,14.98,3.75,118,128.26
+3/21/20 0:00,4:34:00 PM,Matt Wilpers,75,Cycling,Power Zone,75 min Power Zone Endurance Ride,477,106,0.39,81,16.51,20.63,535,121.7
+3/21/20 0:00,5:52:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Low Impact Ride,77,86,0.38,74,14.97,3.73,89,111.4
+3/22/20 0:00,5:21:00 PM,Christine D'Ercole,45,Cycling,Low Impact,45 min Low Impact Ride,272,101,0.39,80,16.21,12.15,293,116.37
+3/22/20 0:00,6:08:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,77,86,0.37,76,15.07,3.76,86,109.78
+3/23/20 0:00,5:22:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Ride,296,110,0.38,83,16.54,12.4,314,120.26
+3/23/20 0:00,6:08:00 PM,Ben Alldis,5,Cycling,Low Impact,5 min Cool Down Ride,26,88,0.38,77,15.34,1.27,29,109.74
+3/24/20 0:00,4:57:00 PM,Hannah Marie Corbin,45,Cycling,Low Impact,45 min Low Impact Ride,246,91,0.39,76,15.57,11.67,273,112.61
+3/25/20 0:00,4:53:00 PM,Ally Love,5,Cycling,Low Impact,5 min Warm Up Ride,23,77,0.33,84,14.46,1.2,25,103.34
+3/25/20 0:00,4:59:00 PM,Olivia Amato,30,Cycling,Power Zone,30 min Power Zone Endurance Ride,192,107,0.37,87,16.58,8.28,210,120.84
+3/25/20 0:00,5:31:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Low Impact Ride,91,101,0.4,77,16.24,4.05,97,116.11
+3/29/20 0:00,4:39:00 PM,Christine D'Ercole,30,Cycling,Low Impact,30 min Low Impact Ride,173,96,0.36,85,15.84,7.91,190,114.87
+3/30/20 0:00,3:24:00 PM,Matt Wilpers,15,Cycling,Power Zone,15 min FTP Warm Up Ride,85,94,0.37,86,15.56,3.89,104,120.3
+3/30/20 0:00,3:41:00 PM,Matt Wilpers,20,Cycling,Power Zone,20 min FTP Test Ride,187,156,0.48,76,19.42,6.47,212,152.27
+3/30/20 0:00,4:04:00 PM,Sam Yo,15,Cycling,Low Impact,15 min Low Impact Ride,67,74,0.34,80,14.24,3.55,107,122.13
+3/31/20 0:00,5:50:00 PM,Jenn Sherman,30,Cycling,Low Impact,30 min Low Impact Ride,164,91,0.38,78,15.49,7.76,184,113.11
+3/31/20 0:00,6:21:00 PM,Ally Love,5,Cycling,Low Impact,5 min Cool Down Ride,25,85,0.38,77,15.11,1.25,26,105.46
+4/1/2020  4,:48:00 PM,Olivia Amato,5,Cycling,Low Impact,5 min Warm Up Ride,24,79,0.32,91,14.6,1.21,28,108.29
+4/1/2020  4,:55:00 PM,Christine D'Ercole,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,290,107,0.39,83,16.62,12.46,311,119.9
+4/1/2020  5,:41:00 PM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,49,82,0.32,92,14.95,2.49,59,110.74
+4/5/2020  4,:57:00 PM,Matt Wilpers,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,286,106,0.37,88,16.52,12.39,325,122.55
+4/5/2020  5,:43:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,20,68,0.29,92,13.76,1.14,26,105.26
+4/9/2020  4,:15:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,254,94,0.37,82,15.66,11.74,256,105.93
+4/9/2020  5,:02:00 PM,Leanne Hainsby,15,Cycling,Low Impact,15 min Cool Down Ride,72,80,0.37,76,14.77,3.69,66,97.67
+4/14/20 0:00,4:14:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,376,105,0.39,81,16.43,16.42,379,114.64
+4/14/20 0:00,5:14:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,21,69,0.3,89,13.81,1.14,22,97.17
+4/15/20 0:00,4:22:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Ride,416,116,0.38,87,17.02,17.01,482,129.66
+4/15/20 0:00,5:24:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Low Impact Ride,56,94,0.35,88,15.72,2.61,73,123
+4/17/20 0:00,4:18:00 PM,Christine D'Ercole,60,Cycling,Climb,60 min Climb Ride,387,108,0.42,74,16.51,16.51,423,121.17
+4/17/20 0:00,5:19:00 PM,Hannah Frankson,10,Cycling,Low Impact,10 min Cool Down Ride,61,101,0.4,78,16.25,2.71,68,118.74
+4/19/20 0:00,1:36:00 PM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,591,110,0.4,82,16.77,25.15,712,128.63
+4/19/20 0:00,3:08:00 PM,Christine D'Ercole,30,Cycling,Low Impact,30 min Low Impact Ride,160,89,0.38,78,15.36,7.67,215,122.1
+4/26/20 0:00,4:36:00 PM,Jess King,30,Cycling,Low Impact,30 min Low Impact Ride,179,99,0.39,79,16.11,8.05,174,110.16
+4/26/20 0:00,5:07:00 PM,Ally Love,5,Cycling,Low Impact,5 min Cool Down Ride,29,97,0.4,76,16.02,1.33,25,103.8
+4/29/20 0:00,4:31:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Ride,287,106,0.37,86,16.41,12.3,286,114.86
+4/29/20 0:00,5:19:00 PM,Matt Wilpers,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,273,101,0.37,83,16.09,12.07,257,109.26
+4/30/20 0:00,5:03:00 PM,Christine D'Ercole,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,384,107,0.36,90,16.5,16.49,552,139.86
+4/30/20 0:00,6:05:00 PM,Leanne Hainsby,10,Cycling,Low Impact,10 min Low Impact Ride,61,101,0.39,79,16.21,2.7,93,140.83
+5/3/2020  3,:00:00 PM,Matt Wilpers,90,Cycling,Power Zone,90 min Power Zone Endurance Ride,586,109,0.38,85,16.67,25.01,602,117.94
+5/3/2020  4,:32:00 PM,Matt Wilpers,30,Cycling,Low Impact,30 min Low Impact Ride,146,81,0.35,80,14.66,7.33,175,110.59
+5/5/2020  4,:33:00 PM,Christine D'Ercole,30,Cycling,Power Zone,30 min Power Zone Ride,177,98,0.36,85,15.56,7.78,195,118.69
+5/5/2020  5,:05:00 PM,Matt Wilpers,30,Cycling,Low Impact,30 min Low Impact Ride,152,84,0.35,82,14.92,7.46,176,110.93
+5/6/2020  5,:09:00 PM,Christine D'Ercole,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,278,103,0.36,88,16.3,12.22,304,118.51
+5/8/2020  4,:14:00 PM,Denis Morton,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,376,104,0.38,83,16.41,16.41,378,114.51
+5/8/2020  5,:16:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,86,96,0.37,83,15.81,3.95,84,108.69
+5/10/20 0:00,4:49:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,383,107,0.38,85,16.53,16.53,389,116.13
+5/10/20 0:00,5:50:00 PM,Leanne Hainsby,10,Cycling,Low Impact,10 min Low Impact Ride,52,86,0.36,81,15.17,2.52,49,102.87
+5/11/20 0:00,3:50:00 PM,Ben Alldis,30,Cycling,Climb,30 min Climb Ride: Live from Home,193,107,0.42,76,16.53,8.26,205,119.23
+5/11/20 0:00,4:22:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,281,104,0.38,83,16.41,12.31,316,120.8
+5/12/20 0:00,4:09:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Ride,419,125,0.44,76,17.6,16.92,522,
+5/12/20 0:00,5:11:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Low Impact Ride,49,83,0.34,84,14.77,2.46,62,
+5/13/20 0:00,4:57:00 PM,Matt Wilpers,30,Cycling,Power Zone,30 min Power Zone Ride,195,109,0.38,82,16.25,8.11,244,
+5/13/20 0:00,5:29:00 PM,Matt Wilpers,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,270,100,0.38,81,16.09,12.06,337,
+5/14/20 0:00,4:46:00 PM,Matt Wilpers,30,Cycling,Power Zone,30 min Power Zone Ride,203,113,0.39,84,16.77,8.38,254,
+5/14/20 0:00,5:18:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,88,98,0.36,88,15.98,3.99,110,
+5/15/20 0:00,4:14:00 PM,Ben Alldis,60,Cycling,Climb,60 min Climb Ride,162,62,0.37,58,11.8,7.71,202,
+5/16/20 0:00,3:53:00 PM,Christine D'Ercole,45,Cycling,Climb,45 min Climb Ride,317,117,0.42,77,17.05,12.79,394,136
+5/16/20 0:00,4:39:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,80,89,0.36,82,15.14,3.78,100,
+5/17/20 0:00,5:04:00 PM,Christine D'Ercole,60,Cycling,Heart Rate Zone,60 min Endurance Ride,416,116,0.4,83,17.13,17.13,519,
+5/17/20 0:00,6:06:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Cool Down Ride,85,95,0.38,81,15.83,3.95,106,
+5/18/20 0:00,5:21:00 PM,Christine D'Ercole,45,Cycling,Power Zone,45 min Power Zone Endurance Ride,270,100,0.36,88,16.06,12.04,269,111.66
+5/18/20 0:00,6:07:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Cool Down Ride,50,83,0.32,93,14.94,2.49,51,103.75
+5/20/20 0:00,3:50:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,384,107,0.38,83,16.51,16.51,388,116.02
+5/20/20 0:00,4:51:00 PM,Matt Wilpers,5,Cycling,Low Impact,5 min Cool Down Ride,19,64,0.29,89,13.34,1.11,22,97.81
+5/21/20 0:00,4:12:00 PM,Christine D'Ercole,30,Cycling,Power Zone,30 min Power Zone Ride,188,104,0.38,83,16.09,8.04,245,132
+5/21/20 0:00,4:45:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,88,98,0.36,85,16.01,4,110,
+5/31/20 0:00,12:00:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,390,108,0.37,87,16.67,16.67,447,124.59
+5/31/20 0:00,1:02:00 PM,Denis Morton,10,Cycling,Low Impact,10 min Cool Down Ride,46,76,0.31,90,14.45,2.4,50,103.74
+6/1/2020  3,:22:00 PM,Denis Morton,45,Cycling,Power Zone,45 min Power Zone Ride,294,109,0.38,83,16.4,12.3,320,120.68
+6/1/2020  4,:09:00 PM,Christine D'Ercole,15,Cycling,Low Impact,15 min Low Impact Ride,88,98,0.37,82,16.01,4,100,117.9
+6/2/2020  3,:16:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Ride,412,114,0.41,80,16.92,16.92,415,119.92
+6/2/2020  4,:18:00 PM,Ben Alldis,15,Cycling,Low Impact,15 min Cool Down Ride,81,90,0.38,78,15.48,3.87,83,107.82
+6/3/2020  4,:03:00 PM,Matt Wilpers,60,Cycling,Power Zone,60 min Power Zone Endurance Ride,374,104,0.38,82,16.35,16.35,418,120.36
+6/3/2020  5,:04:00 PM,Kendall Toole,5,Cycling,Low Impact,5 min Cool Down Ride,33,80,0.37,74,14.47,1.68,40,110.04
+6/4/2020  5,:20:00 PM,Christine D'Ercole,45,Cycling,Low Impact,45 min Low Impact Ride,249,92,0.38,79,15.59,11.68,273,112.58
+6/4/2020  6,:07:00 PM,Christine D'Ercole,10,Cycling,Low Impact,10 min Low Impact Ride,44,73,0.34,80,14.06,2.34,45,98.78
+6/6/2020  2,:47:00 PM,Matt Wilpers,15,Cycling,Power Zone,15 min FTP Warm Up Ride,78,86,0.32,93,14.9,3.72,97,115.79
+6/6/2020  3,:03:00 PM,Matt Wilpers,20,Cycling,Power Zone,20 min FTP Test Ride,189,158,0.47,80,19.51,6.5,209,150.8
+6/6/2020  3,:26:00 PM,Christine D'Ercole,20,Cycling,Low Impact,20 min Low Impact Ride,102,85,0.38,69,14.41,4.8,143,123.25
